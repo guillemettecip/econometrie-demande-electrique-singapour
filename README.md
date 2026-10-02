@@ -1,4 +1,4 @@
-# econometrie-demande-electrique-singapour
+econometrie-demande-electrique-singapour
 
 ## But du projet
 ### Le projet a pour objectif la prévision économétrique de la demande d'électricité à Singapour.   
